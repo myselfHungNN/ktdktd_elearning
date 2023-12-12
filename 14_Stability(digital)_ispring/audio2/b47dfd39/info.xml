@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="true" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\01c2d5db.normalize.wav"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="62698" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+</mediaClip>
